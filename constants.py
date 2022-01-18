@@ -1,0 +1,10 @@
+RECTANGLES_FILEPATH = "car_park_pos.pickle"
+VIDEO_TITLE = "Video Feed"
+IMAGE_TITLE = "Image"
+VIDEO_FILEPATH = "carPark.mp4"
+OUTPUT_FILEPATH = "video.mp4"
+BASE_IMAGE_FILEPATH = "carParkImg.png"
+RECTANGLE_WIDTH = 107
+RECTANGLE_HEIGHT = 48
+OPT_SAVE = "save"
+OPT_DISPLAY = "display"
